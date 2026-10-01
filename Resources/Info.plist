@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>USBCamera</string>
+    <key>CFBundleDisplayName</key><string>USB Camera</string>
+    <key>CFBundleIdentifier</key><string>com.landan.usbcamera.app</string>
+    <key>CFBundleExecutable</key><string>USBCamera</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>CFBundleShortVersionString</key><string>1.0</string>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSCameraReactionEffectGesturesEnabledDefault</key><false/>
+    <key>NSCameraUsageDescription</key><string>需要使用攝影機來顯示即時影像、拍照與錄影。</string>
+    <key>NSMicrophoneUsageDescription</key><string>錄影時需要使用麥克風錄製聲音。</string>
+</dict>
+</plist>
